@@ -1,6 +1,8 @@
-<img src="./Youcef_Abdellani_canvas.png" alt="drawing" width="100%"/>
+<img src="./Youcef_Abdellani_canvas.jpg" alt="drawing" width="100%"/>
 
 ### Hi, I'm Youcef Abdellani 👋
+
+I'm a full-stack web developer, I'm interested in javascript, ruby, rails, react and redux. I like also to learn new technologies and have experiences with diffirent projects. I'm looking for an opportunity to work as a developper.
 
 <!--
 **ABDELLANI-Youcef/ABDELLANI-Youcef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
