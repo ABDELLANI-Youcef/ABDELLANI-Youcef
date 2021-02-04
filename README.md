@@ -1,4 +1,5 @@
-![canva](./Youcef_Abdellani_canvas.png)
+<img src="./Youcef_Abdellani_canvas.png" alt="drawing" width="100%"/>
+
 ### Hi, I'm Youcef Abdellani 👋
 
 <!--
